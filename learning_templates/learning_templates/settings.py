@@ -25,7 +25,7 @@ SECRET_KEY = '+lun(!^w-7jv-9))99@&ui0+sis_x9yr!8c6peh1gt&ybv(1p9'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['perizat.pythonanywhere.com']
 
 
 # Application definition
